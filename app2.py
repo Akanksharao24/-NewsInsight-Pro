@@ -11,6 +11,7 @@ import random
 from PIL import Image
 import io
 
+# Minor tweak to test co-author commit
 # --- SETTINGS ---
 DEFAULT_API_KEY = "1c11415e11454aec92d5ab2110ba03e3"
 API_KEY = "1c11415e11454aec92d5ab2110ba03e3"
