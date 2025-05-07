@@ -13,8 +13,8 @@ import io
 
 # Minor tweak to test co-author commit
 # --- SETTINGS ---
-DEFAULT_API_KEY = "1c11415e11454aec92d5ab2110ba03e3"
-API_KEY = "1c11415e11454aec92d5ab2110ba03e3"
+DEFAULT_API_KEY = "ADD_YOUR_API_KEY"
+API_KEY = "ADD_YOUR_API_KEY"
 MAIN_CATEGORIES = ["business", "entertainment", "general", "health", "science", "sports", "technology"]
 SUB_CATEGORIES = {
     "business": ["economy", "startups", "finance", "markets", "entrepreneurship"],
