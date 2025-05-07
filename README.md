@@ -49,7 +49,7 @@
 1. **Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/newsinsight-pro.git
+git clone https://github.com/Akanksharao24/newsinsight-pro.git
 cd newsinsight-pro
 ```
 
